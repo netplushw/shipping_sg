@@ -1,10 +1,4 @@
-# pinche_xcx
-
-[![GitHub stars](https://img.shields.io/github/stars/vincenth520/pinche_xcx.svg)](https://github.com/vincenth520/pinche_xcx/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/vincenth520/pinche_xcx.svg)](https://github.com/vincenth520/pinche_xcx/network)
-[![GitHub issues](https://img.shields.io/github/issues/vincenth520/pinche_xcx.svg)](https://github.com/vincenth520/pinche_xcx/issues)
-[![GitHub release](https://img.shields.io/github/release/vincenth520/pinche_xcx.svg)](https://github.com/vincenth520/pinche_xcx/releases)
-[![GitHub license](https://img.shields.io/badge/license-APACHE2.0-blue.svg)](https://raw.githubusercontent.com/vincenth520/pinche_xcx/master/LICENSE)
+# shipping_sg
 
 ## 项目说明
 
@@ -31,8 +25,8 @@
 修改utils/utils.js
 ```
 var wxAppinfo = {
-  'name': '同城拼车', //登录页标题
-  'logo': 'https://wx.qlogo.cn/mmhead/Q3auHgzwzM41GbicIwic6JOHzehVqd3OubV4GmEQA67KRXyoZ3Y6maHg/0' //登录页logo
+  'name': '新加坡海运', //登录页标题
+  'logo': '/img/auto.png' //登录页logo
 };
 
 //修改成你的appid及appsecret
@@ -54,11 +48,5 @@ var AppConf = { 'appid': 'wx0aa456241abc9e8e', 'appsecret':'cb10ea69158ef5c786c9
 你可以用以下联系方式找到我(`不接受问问题,有问题请直接提交`[issue](https://github.com/vincenth520/pinche_xcx/issues))
 
 
-[捐赠支持付费计划](https://github.com/vincenth520/pinche_xcx/blob/master/donate.md)
-
-
-- email[[1091986039@qq.com](mailto:1091986039@qq.com)]
-- qq[1091986039]
-- wechat[1091986039]
 
 
